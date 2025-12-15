@@ -7,6 +7,4 @@ Hello! My name is Nik Trbižan. I am 17 years old. Here's some fun facts about m
 - Currently learning Java, JavaScript and Python
 - I've been coding for the past 4 years
 
-<a href="https://www.facebook.com/profile.php?id=100069180426939">
-  <button>FaceBook</button>
-</a>
+[![FaceBook](https://img.shields.io/badge/)](https://www.facebook.com/profile.php?id=100069180426939)
