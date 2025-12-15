@@ -8,3 +8,4 @@ Hello! My name is Nik Trbižan. I am 17 years old. Here's some fun facts about m
 - I've been coding for the past 4 years
 
 [![FaceBook](https://img.shields.io/badge/-FaceBook-lightblue)](https://www.facebook.com/profile.php?id=100069180426939)
+[![Gmail](https://img.shields.io/badge/-Gmail-red)](https://mail.google.com/mail/u/2/#inbox?compose=CllgCJlHmgJhKGJKlTHkXFnnKsMzBJZNvjqLCcsxHRGzXkjPlcMZsvRSCCXMNmmnCgVQxzkZcSB)
